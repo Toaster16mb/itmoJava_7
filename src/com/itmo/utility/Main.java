@@ -6,6 +6,6 @@ package com.itmo.utility;
 public class Main {
     public static void main(String[] args) {
         System.out.println(UtilityClass.find('A', "jAvA"));
-        System.out.println(UtilityClass.transform("jAVA doadsfgsASAFADGsafAS"));
+        System.out.println(UtilityClass.transform("jAVA doadsfgsASAFADGsafAS  lipsum"));
     }
 }
